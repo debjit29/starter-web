@@ -1,1 +1,3 @@
 Hi, new file, I like it
+
+adding text to check, if git is tracking this file
